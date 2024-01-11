@@ -4,7 +4,6 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Historia del Baloncesto</title>
-     <!-- Declaración de la pagina web -->
     <style>
         /* Estilos generales del documento */
         body {
@@ -110,9 +109,7 @@
                 <td>3</td>
                 <td>Miami, Florida</td>
             </tr>
-            <!-- Ingreso de datos para la tabla -->
         </table>
-
         <h2>10 Mejores jugadores de baloncesto</h2>
         <!-- Sub Titulo -->
         <ol>
@@ -130,7 +127,6 @@
             <li><a href="https://perio.unlp.edu.ar/catedras/periodeportivo1/wp-content/uploads/sites/4/2020/05/LOPEZ-El-b%C3%A1squet-y-sus-reglas.pdf">REGLAS</a></li>
             <li><a href="https://www.mundodeportivo.com/baloncesto">NOTICIAS</a></li>
         </ul>
-        <!-- Lista desordenada de links -->
     </main>
 </body>
 </html>
