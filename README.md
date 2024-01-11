@@ -5,14 +5,12 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Historia del Baloncesto</title>
     <style>
-        /* Estilos generales del documento */
         body {
             background-color: #f0f0f0;
             font-family: 'Roboto', sans-serif;
             margin: 0;
             padding: 0;
         }
-        /* Estilos del encabezado */
         header {
             background-color: #007BFF;
             color: #fff;
@@ -20,11 +18,9 @@
             padding: 20px;
         }
         h1 {
-          /* Estilo del titulo */
             font-size: 36px;
         }
         main {
-            /* Estilos del contenido principal */
             max-width: 900px;
             margin: 20px auto;
             padding: 20px;
@@ -34,30 +30,25 @@
             box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
         }
         p {
-          /* Estilos de los parrafos */
             font-size: 18px;
             line-height: 1.6;
             color: #333;
         }
         table {
-            /* Estilos de la tabla */
             width: 100%;
             border-collapse: collapse;
             margin-top: 20px;
         }
         th, td {
-            /* Estilos de celdas de la tabla */
             border: 1px solid #ccc;
             padding: 8px;
             text-align: center;
         }
         th {
-         /* Estilos de datos de la tabla */
             background-color: #007BFF;
             color: #fff;
         }
         h2 {
-          /* Estilos de los subtitulos */
             color: #007BFF;
             font-style: italic; 
         }
@@ -67,7 +58,6 @@
 <body>
     <header>
         <h1>Historia del Baloncesto</h1>
-        <!-- Titulo -->
     </header>
     <main>
         <p>El baloncesto es un deporte de equipo que se juega con una pelota y dos equipos de cinco jugadores cada uno. Fue inventado por James Naismith en 1891 en Springfield, Massachusetts, Estados Unidos.</p>
